@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/DaroFlix/static/js/main.30f567e9.chunk.js",
+    "main.js.map": "/DaroFlix/static/js/main.30f567e9.chunk.js.map",
+    "runtime-main.js": "/DaroFlix/static/js/runtime-main.d6e2a673.js",
+    "runtime-main.js.map": "/DaroFlix/static/js/runtime-main.d6e2a673.js.map",
+    "static/js/2.071cbab5.chunk.js": "/DaroFlix/static/js/2.071cbab5.chunk.js",
+    "static/js/2.071cbab5.chunk.js.map": "/DaroFlix/static/js/2.071cbab5.chunk.js.map",
+    "index.html": "/DaroFlix/index.html",
+    "precache-manifest.cfa3b1442de4b669d4eac4b370764ed5.js": "/DaroFlix/precache-manifest.cfa3b1442de4b669d4eac4b370764ed5.js",
+    "service-worker.js": "/DaroFlix/service-worker.js",
+    "static/js/2.071cbab5.chunk.js.LICENSE.txt": "/DaroFlix/static/js/2.071cbab5.chunk.js.LICENSE.txt",
+    "static/media/NoImage.png": "/DaroFlix/static/media/NoImage.43419804.png",
+    "static/media/happyPig.jpg": "/DaroFlix/static/media/happyPig.d8b979ac.jpg",
+    "static/media/imdb.PNG": "/DaroFlix/static/media/imdb.ce572da3.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6e2a673.js",
+    "static/js/2.071cbab5.chunk.js",
+    "static/js/main.30f567e9.chunk.js"
+  ]
+}
