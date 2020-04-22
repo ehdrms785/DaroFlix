@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b370d59e8ea16323858ded4cec788f1",
+    "revision": "299d99869a8990a927f15f3270cf9a78",
     "url": "/DaroFlix/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DaroFlix/static/js/2.f996a9c0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3bf5fbf8a6335277bc9c",
-    "url": "/DaroFlix/static/js/main.6d361b76.chunk.js"
+    "revision": "1bc025742b897430745f",
+    "url": "/DaroFlix/static/js/main.944aa112.chunk.js"
   },
   {
     "revision": "f040130e94356c5f7efe",
