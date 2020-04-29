@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DaroFlix/precache-manifest.35227bd98feaae95be97d61992526bd4.js"
+  "/DaroFlix/precache-manifest.e15c684ba21512cfa23495c7f944cf8f.js"
 );
 
 self.addEventListener('message', (event) => {
