@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/DaroFlix/static/js/main.e1e26bf3.chunk.js",
-    "main.js.map": "/DaroFlix/static/js/main.e1e26bf3.chunk.js.map",
+    "main.js": "/DaroFlix/static/js/main.009502aa.chunk.js",
+    "main.js.map": "/DaroFlix/static/js/main.009502aa.chunk.js.map",
     "runtime-main.js": "/DaroFlix/static/js/runtime-main.d6e2a673.js",
     "runtime-main.js.map": "/DaroFlix/static/js/runtime-main.d6e2a673.js.map",
-    "static/js/2.b4b60533.chunk.js": "/DaroFlix/static/js/2.b4b60533.chunk.js",
-    "static/js/2.b4b60533.chunk.js.map": "/DaroFlix/static/js/2.b4b60533.chunk.js.map",
+    "static/js/2.ab1d3a2f.chunk.js": "/DaroFlix/static/js/2.ab1d3a2f.chunk.js",
+    "static/js/2.ab1d3a2f.chunk.js.map": "/DaroFlix/static/js/2.ab1d3a2f.chunk.js.map",
     "index.html": "/DaroFlix/index.html",
-    "precache-manifest.e15c684ba21512cfa23495c7f944cf8f.js": "/DaroFlix/precache-manifest.e15c684ba21512cfa23495c7f944cf8f.js",
+    "precache-manifest.72cba35ab54963c0bbd7438b679fab91.js": "/DaroFlix/precache-manifest.72cba35ab54963c0bbd7438b679fab91.js",
     "service-worker.js": "/DaroFlix/service-worker.js",
-    "static/js/2.b4b60533.chunk.js.LICENSE.txt": "/DaroFlix/static/js/2.b4b60533.chunk.js.LICENSE.txt",
+    "static/js/2.ab1d3a2f.chunk.js.LICENSE.txt": "/DaroFlix/static/js/2.ab1d3a2f.chunk.js.LICENSE.txt",
     "static/media/NoImage.png": "/DaroFlix/static/media/NoImage.43419804.png",
     "static/media/happyPig.jpg": "/DaroFlix/static/media/happyPig.d8b979ac.jpg",
     "static/media/imdb.PNG": "/DaroFlix/static/media/imdb.ce572da3.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.d6e2a673.js",
-    "static/js/2.b4b60533.chunk.js",
-    "static/js/main.e1e26bf3.chunk.js"
+    "static/js/2.ab1d3a2f.chunk.js",
+    "static/js/main.009502aa.chunk.js"
   ]
 }
