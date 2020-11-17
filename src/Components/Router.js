@@ -22,8 +22,7 @@ export default () => (
       <Route path="/show/:id" exact component={Detail} />
       <Route path="/:type/viewMore/:subject" exact component={ViewMore} />
       <Route path="/:type/viewMore/:subject/:query" component={ViewMore} />
-      {/* <Route path="/test/modal" component={} /> */}
-      {/* <Redirect from="*" to="/" /> */}
+      <Redirect from="*" to="/" />
     </Switch>
   </Router>
 );

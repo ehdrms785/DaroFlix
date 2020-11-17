@@ -68,7 +68,7 @@ export default class DetailTabContainer extends Component {
     if (isMovie) {
     } else {
       ({
-        result: { seasons: seasons },
+        result: { seasons },
       } = this.props);
     }
 
@@ -123,7 +123,7 @@ export default class DetailTabContainer extends Component {
       let seasons = null;
       if (!isMovie) {
         ({
-          result: { seasons: seasons },
+          result: { seasons },
         } = this.props);
       }
 

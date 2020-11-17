@@ -1,7 +1,6 @@
 import React from "react";
 import SearchPresenter from "./SearchPresenter";
 import { movieApi, tvApi } from "../../api";
-import { Redirect } from "react-router";
 
 export default class extends React.Component {
   state = {

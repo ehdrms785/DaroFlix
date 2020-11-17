@@ -18,7 +18,6 @@ export default class TabSimilar extends React.Component {
     const { movie_results, scroll, page } = this.state;
     const { movie_id } = this.props;
     // const { recommends_ } = this.props;
-    console.log("getDataMore");
 
     try {
       if (scroll) {

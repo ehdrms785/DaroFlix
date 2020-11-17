@@ -5,7 +5,6 @@ import Message from "../../Components/Message";
 import Helmet from "react-helmet";
 import ViewMorePoster from "../../Components/ViewMorePoster";
 import ViewMoreSection from "../../Components/ViewMoreSection";
-import { Link } from "react-router-dom";
 const Container = styled.div`
   overflow: auto;
   padding: 20px;

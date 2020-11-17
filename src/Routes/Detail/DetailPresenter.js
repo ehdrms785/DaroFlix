@@ -4,9 +4,6 @@ import styled from "styled-components";
 import Loading from "Components/Loading";
 import Helmet from "react-helmet";
 import DetailTabContainer from "Components/DetailTab/DetailTabContainer";
-import MyModal from "../../Components/MyModal";
-import ModalPortal from "../../Components/ModalPortal";
-import CastModal from "../../Components/CastModal";
 
 const Container = styled.div`
   position: relative;
@@ -101,9 +98,7 @@ const Overview = styled.p`
   margin-bottom: 50px;
   display: block;
 `;
-const Button = styled.button`
-  cursor: pointer;
-`;
+
 const DetailPresenter = ({
   result,
   casts_result,
@@ -112,7 +107,7 @@ const DetailPresenter = ({
   loading,
   isMovie,
 }) => {
-  // console.log(casts_result);
+  //console.log(casts_result);
   return loading ? (
     <Loading nowPage="Detail"></Loading>
   ) : (
@@ -207,13 +202,13 @@ const DetailPresenter = ({
       </Content>
     </Container>
   );
+};
 
-  DetailPresenter.propTypes = {
-    result: PropTypes.object,
-    error: PropTypes.string,
-    loading: PropTypes.bool.isRequired,
-    isMovie: PropTypes.bool.isRequired,
-  };
+DetailPresenter.propTypes = {
+  result: PropTypes.object,
+  error: PropTypes.string,
+  loading: PropTypes.bool.isRequired,
+  isMovie: PropTypes.bool.isRequired,
 };
 
 export default DetailPresenter;
