@@ -25,7 +25,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
   },
-  "homepage": "https://ehdrms785.github.io/daroflix/",
+  "homepage": "https://modest-mcclintock-80a3d5.netlify.app/",
   "eslintConfig": {
     "extends": "react-app"
   },
