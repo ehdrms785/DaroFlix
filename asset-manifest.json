@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.js": "/DaroFlix/static/js/main.009502aa.chunk.js",
-    "main.js.map": "/DaroFlix/static/js/main.009502aa.chunk.js.map",
-    "runtime-main.js": "/DaroFlix/static/js/runtime-main.d6e2a673.js",
-    "runtime-main.js.map": "/DaroFlix/static/js/runtime-main.d6e2a673.js.map",
-    "static/js/2.ab1d3a2f.chunk.js": "/DaroFlix/static/js/2.ab1d3a2f.chunk.js",
-    "static/js/2.ab1d3a2f.chunk.js.map": "/DaroFlix/static/js/2.ab1d3a2f.chunk.js.map",
-    "index.html": "/DaroFlix/index.html",
-    "precache-manifest.72cba35ab54963c0bbd7438b679fab91.js": "/DaroFlix/precache-manifest.72cba35ab54963c0bbd7438b679fab91.js",
-    "service-worker.js": "/DaroFlix/service-worker.js",
-    "static/js/2.ab1d3a2f.chunk.js.LICENSE.txt": "/DaroFlix/static/js/2.ab1d3a2f.chunk.js.LICENSE.txt",
-    "static/media/NoImage.png": "/DaroFlix/static/media/NoImage.43419804.png",
-    "static/media/happyPig.jpg": "/DaroFlix/static/media/happyPig.d8b979ac.jpg",
-    "static/media/imdb.PNG": "/DaroFlix/static/media/imdb.ce572da3.PNG"
+    "main.js": "/static/js/main.cb60c7c3.chunk.js",
+    "main.js.map": "/static/js/main.cb60c7c3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6ffe6b6e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6ffe6b6e.js.map",
+    "static/js/2.26bbd353.chunk.js": "/static/js/2.26bbd353.chunk.js",
+    "static/js/2.26bbd353.chunk.js.map": "/static/js/2.26bbd353.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2a54f15b4e3a947840ff1031e238504b.js": "/precache-manifest.2a54f15b4e3a947840ff1031e238504b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.26bbd353.chunk.js.LICENSE.txt": "/static/js/2.26bbd353.chunk.js.LICENSE.txt",
+    "static/media/imdb.PNG": "/static/media/imdb.ce572da3.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6e2a673.js",
-    "static/js/2.ab1d3a2f.chunk.js",
-    "static/js/main.009502aa.chunk.js"
+    "static/js/runtime-main.6ffe6b6e.js",
+    "static/js/2.26bbd353.chunk.js",
+    "static/js/main.cb60c7c3.chunk.js"
   ]
 }
