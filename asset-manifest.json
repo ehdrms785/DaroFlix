@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/DaroFlix/static/js/main.86480499.chunk.js",
-    "main.js.map": "/DaroFlix/static/js/main.86480499.chunk.js.map",
-    "runtime-main.js": "/DaroFlix/static/js/runtime-main.d6e2a673.js",
-    "runtime-main.js.map": "/DaroFlix/static/js/runtime-main.d6e2a673.js.map",
-    "static/js/2.aa59b119.chunk.js": "/DaroFlix/static/js/2.aa59b119.chunk.js",
-    "static/js/2.aa59b119.chunk.js.map": "/DaroFlix/static/js/2.aa59b119.chunk.js.map",
-    "index.html": "/DaroFlix/index.html",
-    "precache-manifest.40caf78d74dc639ad4382d99f2287d8f.js": "/DaroFlix/precache-manifest.40caf78d74dc639ad4382d99f2287d8f.js",
-    "service-worker.js": "/DaroFlix/service-worker.js",
-    "static/js/2.aa59b119.chunk.js.LICENSE.txt": "/DaroFlix/static/js/2.aa59b119.chunk.js.LICENSE.txt",
-    "static/media/imdb.PNG": "/DaroFlix/static/media/imdb.ce572da3.PNG"
+    "main.js": "/daroflix/static/js/main.86480499.chunk.js",
+    "main.js.map": "/daroflix/static/js/main.86480499.chunk.js.map",
+    "runtime-main.js": "/daroflix/static/js/runtime-main.5e15e475.js",
+    "runtime-main.js.map": "/daroflix/static/js/runtime-main.5e15e475.js.map",
+    "static/js/2.9615c487.chunk.js": "/daroflix/static/js/2.9615c487.chunk.js",
+    "static/js/2.9615c487.chunk.js.map": "/daroflix/static/js/2.9615c487.chunk.js.map",
+    "index.html": "/daroflix/index.html",
+    "precache-manifest.09621661e0634bd988dfd1b24bc12e3c.js": "/daroflix/precache-manifest.09621661e0634bd988dfd1b24bc12e3c.js",
+    "service-worker.js": "/daroflix/service-worker.js",
+    "static/js/2.9615c487.chunk.js.LICENSE.txt": "/daroflix/static/js/2.9615c487.chunk.js.LICENSE.txt",
+    "static/media/imdb.PNG": "/daroflix/static/media/imdb.ce572da3.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6e2a673.js",
-    "static/js/2.aa59b119.chunk.js",
+    "static/js/runtime-main.5e15e475.js",
+    "static/js/2.9615c487.chunk.js",
     "static/js/main.86480499.chunk.js"
   ]
 }
