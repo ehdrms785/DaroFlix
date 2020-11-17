@@ -25,7 +25,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
   },
-  "homepage": "https://ehdrms785.github.io/DaroFlix/",
+  "homepage": "https://ehdrms785.github.io/daroflix/",
   "eslintConfig": {
     "extends": "react-app"
   },
