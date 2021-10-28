@@ -2,10 +2,10 @@
 
 ## Screens
 
-- [ ] Home
-- [ ] TV
-- [ ] Search
-- [ ] Detail
+- [x] Home
+- [x] TV
+- [x] Search
+- [x] Detail
 
 ## API Verbs
 
@@ -13,13 +13,12 @@
 - [x] Upcoming (Movie)
 - [x] Popular (TV, Movie)
 - [x] Top Rated (TV)
-- [ ] Airing Today (TV)
+- [x] Airing Today (TV)
 
 ## Code Challenges
 
-- [ ] IMDB Link
-- [ ] Tabs inside of Movie / Show Details (Youtube Videos, Production Company & countries)
-- [ ] Collections Link
-- [ ] /collections Route
-- [ ] on Tv Show, show seasons and creators
-- [ ]
+- [x] IMDB Link
+- [x] Tabs inside of Movie / Show Details (Youtube Videos, Production Company & countries)
+- [x] Collections Link
+- [x] /collections Route
+- [x] on Tv Show, show seasons and creators
